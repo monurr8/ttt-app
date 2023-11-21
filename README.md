@@ -1,54 +1,46 @@
-# ttt-app
+ttt-app
 
+React Profile Page Project
+This project constitutes a straightforward React.js application presenting an adaptable profile page. The profile details remain statically embedded within a JSON file, and the project employs Bootstrap for layout styling while incorporating Font Awesome icons to enhance visual aesthetics.
 
-# React Profile Page Project
+Live Demonstration
 
-This project is a simple React.js application that showcases a responsive profile page. The profile data is hardcoded in a JSON file, and the project utilizes Bootstrap for styling and Font Awesome icons for additional visual elements.
+//Currently in progress
+(Live streaming)
 
+Notable Features
 
-## Demo
-
-//I am doing it now
- (Live now)
-
-
-## Features
-
-- Responsive design for various screen sizes.
-- Bootstrap for styling components and layout.
-- Font Awesome icons for enhanced visual elements.
-- Hardcoded profile data in a JSON file.
-
-## Installation
-
-1. Clone the repository to your local machine:\
+Adaptable design catering to diverse screen dimensions.
+Implementation of Bootstrap for styling components and page layout.
+Integration of Font Awesome icons for added visual appeal.
+Profile data firmly entrenched in a JSON file.
+Setup Instructions
+Duplicate the repository to your local environment:
 git clone https://github.com/monurr8/ttt-app
 
-2. Navigate to the project directory:\
-   cd ttt-assignment
-   
-3. Install all required dependencies by simple running this command:\
-   npm install
-   
-5. Start the development server:\
-   npm start
+Navigate to the project directory:
+cd ttt-assignment
 
-## Technologies Used
-This project makes use of the following technologies and tools:
+Execute the following command to install all necessary dependencies:
+npm install
 
-- **React.js:** A JavaScript library for building user interfaces. It enables the creation of reusable UI components.
+Initiate the development server:
+npm start
 
-- **Bootstrap:** A popular front-end framework for designing responsive and visually appealing web pages. Bootstrap provides a set of CSS and JavaScript components for building a responsive and mobile-first user interface.
+Utilized Technologies
+This project leverages the following technologies and tools:
 
-- **Font Awesome Icons:** A comprehensive collection of icons that can be easily customized and styled using CSS. Font Awesome icons enhance the visual elements of the project.
+React.js: A JavaScript library facilitating the creation of user interfaces through reusable components.
 
-- **JSON:** The profile data is hardcoded in a JSON file, providing a simple and structured way to store and manage the data.
+Bootstrap: A widely-used front-end framework for crafting responsive and visually appealing web pages. Bootstrap provides a collection of CSS and JavaScript components designed for creating a responsive and mobile-first user interface.
 
-- **npm:** The Node Package Manager is used for installing and managing project dependencies.
+Font Awesome Icons: An extensive set of icons that can be easily customized and styled using CSS. Font Awesome icons enrich the visual aspects of the project.
 
+JSON: Profile data is hardwired into a JSON file, offering a straightforward and structured approach to data storage and management.
 
-These technologies work together to create a dynamic and responsive profile page, providing a seamless user experience across different devices and screen sizes.
+npm: The Node Package Manager is employed for the installation and management of project dependencies.
 
-## Preview of the website
+These technologies collaboratively contribute to the development of a dynamic and responsive profile page, ensuring a seamless user experience across a variety of devices and screen sizes.
 
-
+Sneak Peek of the Website
+, retain the content in its current form, altering the wording to convey the same meaning in a different manner while refraining from modifying the links.
