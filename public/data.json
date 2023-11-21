@@ -1,0 +1,104 @@
+{
+    "profile": {
+      "name": "Orcastra",
+      "background" : "https://media.istockphoto.com/id/1494104649/photo/ai-chatbot-artificial-intelligence-digital-concept.jpg?s=1024x1024&w=is&k=20&c=FQZBVxbXjhgPzm-W-5Jo3O7x7OXLPugwXzTKEu6nV3w=",
+      "pic" : "https://img.freepik.com/free-vector/hand-drawn-korean-drawing-style-character-illustration_23-2149623254.jpg?size=626&ext=jpg&ga=GA1.1.859897264.1700539398&semt=ais",
+      "followers": 1900,
+      "following": 6700,
+      "position" : "Co-founder & CEO",
+      "link" : "https://github.com/monurr8/ttt-app",
+      "stars": 100,
+      "likes": "567",
+      "views": "5K",
+      "hearts": 400
+    },
+    "posts": [
+      {
+        "title": "Apple Watch Ultra 2",
+        "content": "The Apple Watch Ultra 2 combines style with advanced health tracking in a sleek, durable design. Seamlessly integrating with the Apple ecosystem, it ensures smooth performance and quick access to notifications. Perfect for a premium smartwatch experience.",
+        "date": "January 8",
+        "read_time": "18 min",
+        "views": 180
+      },
+      {
+        "title": "Mastering Responsive Web Design: Techniques and Tools",
+        "content": "Delve into the world of responsive web design and master key techniques and tools for creating adaptable and user-friendly websites. From flexible grids to media queries, uncover the strategies that enhance the user experience across various devices.",
+        "date": "August 5",
+        "read_time": "12 min",
+        "views": 420
+      },
+      {
+        
+        "title": "The Rise of Quantum Computing: Breaking New Grounds",
+        "content": "Embark on the journey of quantum computing's ascendancy, exploring breakthroughs and innovations. From qubits to quantum supremacy, grasp the revolutionary strides reshaping computational landscapes. Witness the unfolding potential and implications of this cutting-edge technology.",
+        "date": "September 10",
+        "read_time": "16 min",
+        "views": 550
+      },
+      {
+        "title": "The Future of AI: Advancements and Ethical Considerations",
+        "content": "Uncover the latest advancements in artificial intelligence and explore the ethical considerations that accompany this rapidly evolving field. From machine learning breakthroughs to responsible AI practices, gain insights into the future landscape of AI technology.",
+        "date": "October 8",
+        "read_time": "18 min",
+        "views": 620
+      },
+      {
+        "title": "Building Progressive Web Apps with Service Workers",
+        "content": "Discover the world of Progressive Web Apps (PWAs) and how Service Workers enable offline capabilities, push notifications, and faster performance. Learn the key principles and tools for building PWAs.",
+        "date": "October 7",
+        "read_time": "12 min",
+        "views": 350
+      },
+      {
+        "title": "Blockchain Beyond Cryptocurrency: Real-world Applications Unveiled",
+"content": "Dive into the expanding realm of blockchain technology beyond cryptocurrency. Explore real-world applications, from supply chain transparency to decentralized finance. Understand how blockchain is revolutionizing various industries and reshaping digital ecosystems.",
+"date": "November 15",
+"read_time": "15 min",
+"views": 480
+      },
+      {
+       
+      "title": "The Era of 5G: Transforming Connectivity and Digital Experiences",
+      "content": "Step into the era of 5G and witness its transformative impact on connectivity and digital experiences. From ultra-fast speeds to low latency, explore how 5G is reshaping industries, enabling innovations, and revolutionizing the way we connect and communicate.",
+      "date": "November 22",
+      "read_time": "14 min",
+      "views": 580
+      },
+      {
+        "title": "Augmented Reality: Bridging the Physical and Digital Worlds",
+        "content": "Explore the exciting realm of augmented reality (AR) and its applications in various industries. From AR gaming to enhancing user experiences, learn about the technologies driving this innovative field.",
+        "date": "January 18",
+        "read_time": "22 min",
+        "views": 550
+      },
+      {
+        "title": "Blockchain Technology: Beyond Cryptocurrencies",
+        "content": "Explore the underlying technology of blockchain and its applications beyond cryptocurrencies. Learn about smart contracts, decentralized applications (DApps), and the potential impact on various industries.",
+        "date": "February 22",
+        "read_time": "18 min",
+        "views": 480
+      },
+      {
+        "title": "Securing APIs: Best Practices for Developers",
+        "content": "As APIs play a crucial role in modern application development, understanding API security is paramount. This post covers authentication, authorization, encryption, and other best practices to secure your APIs.",
+        "date": "March 10",
+        "read_time": "15 min",
+        "views": 400
+      },
+      {
+        "title": "Quantum Computing: A Glimpse into the Future",
+        "content": "Quantum computing holds the promise of revolutionizing computation. Delve into the basics of quantum computing, quantum bits (qubits), and explore the potential applications that could reshape industries.",
+        "date": "April 5",
+        "read_time": "20 min",
+        "views": 600
+      },
+          {
+            "title": "Augmented Reality in Everyday Life: Applications and Future Trends",
+    "content": "Immerse yourself in the world of augmented reality (AR) and explore its applications in everyday life. From enhanced shopping experiences to educational tools, delve into the current landscape and future trends shaping the integration of AR technology into our daily routines.",
+    "date": "December 5",
+    "read_time": "16 min",
+    "views": 420
+      }
+    ]
+  }
+  
