@@ -1,4 +1,4 @@
-ttt-app
+#ttt-app
 
 React Profile Page Project
 This project constitutes a straightforward React.js application presenting an adaptable profile page. The profile details remain statically embedded within a JSON file, and the project employs Bootstrap for layout styling while incorporating Font Awesome icons to enhance visual aesthetics.
