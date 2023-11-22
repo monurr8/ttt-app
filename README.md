@@ -5,7 +5,8 @@ This project constitutes a straightforward React.js application presenting an ad
 
 #Live Demonstration
 
-//Currently in progress
+https://ttt-app.vercel.app/
+
 (Live streaming)
 
 #Notable Features
